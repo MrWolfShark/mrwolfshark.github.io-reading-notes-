@@ -24,9 +24,9 @@ values to guide the flow of a script using conditions.
 
 ## Logical Operators
 - Compare the values of two or more comparison operators
-  - "&&" And
-  - "\|&vert;" Or
-  - "!"  And Not
+  - <&&> And
+  - " \|&vert; " Or
+  - " ! "  And Not
 
 ### **Example:**
 
