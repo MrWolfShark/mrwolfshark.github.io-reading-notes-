@@ -5,13 +5,13 @@
 -Comparison operators are used to evaluate two operands
 
 ##**Comparison Operators**
-  -Compare two oprands and return single value (True or False)
-    - ">" Greater Than
-    - "<" Less Than
-    - "==" Equal To
-    - "!=" Not Equal To
-    - ">=" Greater Than or Equal To
-    - "<=" Less Than or Equal To
+- Compare two oprands and return single value (True or False)
+  - ">" Greater Than
+  - "<" Less Than
+  - "==" Equal To
+  - "!=" Not Equal To
+  - ">=" Greater Than or Equal To
+  - "<=" Less Than or Equal To
     
 ###**Example:**
        **(Comparison Operator)**
@@ -25,10 +25,10 @@ Since true is not equal to false, the variable eval with now return as true. Thi
 values to guide the flow of a script using conditions.
 
 ##Logical Operators
-  -Compare the values of two or more comparison operators
-    - "&&" And
-    - "||" Or
-    - "!"  And Not
+- Compare the values of two or more comparison operators
+  - "&&" And
+  - "||" Or
+  - "!"  And Not
 
 ###Example:
                 **(Logical Operator)**
