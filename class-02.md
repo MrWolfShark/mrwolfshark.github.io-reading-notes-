@@ -28,7 +28,7 @@ values to guide the flow of a script using conditions.
   - "||" Or
   - "!"  And Not
 
-### Example:
+### **Example:**
 
 ```javascript
 let eval = (true == true) && (false != true)
