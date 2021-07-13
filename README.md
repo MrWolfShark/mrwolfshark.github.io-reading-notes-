@@ -3,7 +3,7 @@
 ## **Table of Contents**
 
 1. Assignment 1
-2. [Reading Notes 2](/class-02.md) 
+2. [Evaluations: A Quick Guide](/class-02.md) 
 3. Assignment 3
 4. Assignment 4
 5. Assignment 5
