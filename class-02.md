@@ -14,7 +14,7 @@
     
 ### **Example:**
 
- ```javascirpt 
+ ```javascript 
 let eval = (true) != (false)
 ```
 
