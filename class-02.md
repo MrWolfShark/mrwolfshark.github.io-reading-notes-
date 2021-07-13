@@ -4,7 +4,7 @@
 -Compares two values to be True or False
 -Comparison operators are used to evaluate two operands
 
-##**Comparison Operators**
+## **Comparison Operators**
 - Compare two oprands and return single value (True or False)
   - ">" Greater Than
   - "<" Less Than
@@ -13,7 +13,7 @@
   - ">=" Greater Than or Equal To
   - "<=" Less Than or Equal To
     
-###**Example:**
+### **Example:**
 
  ```javascirpt 
 let eval = (true) != (false)
@@ -23,18 +23,17 @@ In the above example, two seperate values are being evaluated to see if they are
 Since true is not equal to false, the variable eval with now return as true. This can be useful when evaluating 
 values to guide the flow of a script using conditions.
 
-##Logical Operators
+## Logical Operators
 - Compare the values of two or more comparison operators
   - "&&" And
   - "||" Or
   - "!"  And Not
 
-###Example:
-                **(Logical Operator)**
-                          V
+### Example:
+
+```javascript
 let eval = (true == true) && (false != true)
-                  ^                  ^
-   **(Comparison Operator)  (Comparison Operator)** 
+```
 
 In the above example, two comparison operators are evaluated. The first evaluates if true is equal to true (which is true)
 and is false does not equal true (which is also true). The AND operator compares the two results of the conditional 
