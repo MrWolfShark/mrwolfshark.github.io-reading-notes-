@@ -3,7 +3,7 @@
 ## **Table of Contents**
 
 1. Assignment 1
-2. Assignment 2
+[2. Reading Notes 2](.\class-02.md) 
 3. Assignment 3
 4. Assignment 4
 5. Assignment 5
@@ -17,5 +17,3 @@
 13. Assignment 13
 14. Assignment 14
 15. Assignment 15
-
-### **Assignment 1**
