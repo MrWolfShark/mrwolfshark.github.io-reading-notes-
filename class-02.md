@@ -1,8 +1,7 @@
 # Evaluations: A Quick guide
 
-- Analyze values against match criteria
-- Compares two values to be True or False
-- Comparison operators are used to evaluate two operands
+**Evaluation**
+: Analyzes values against match criteria and returns value of True or False
 
 ## **Comparison Operators**
 - Compare two oprands and return single value (True or False)
