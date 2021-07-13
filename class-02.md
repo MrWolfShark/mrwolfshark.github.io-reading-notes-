@@ -14,11 +14,10 @@
   - "<=" Less Than or Equal To
     
 ###**Example:**
-       **(Comparison Operator)**
-                   V
+
+ ```javascirpt 
 let eval = (true) != (false)
-              ^         ^
-       **(Operand) (Operand)**
+```
 
 In the above example, two seperate values are being evaluated to see if they are not equal to each other (!=).
 Since true is not equal to false, the variable eval with now return as true. This can be useful when evaluating 
