@@ -44,10 +44,10 @@
   <dt>Pan</dt>
   <dd>Metal object used to cook food. Usually has a long handle.</dd>
   <dt>Yolk</dt>
-  <dd>Yellow part of the egg. Not as good as the whites.<\dd>
-  <dt>Savory<\dt>
-  <dd>To be salty and pleasant tasing.<\dd>
-<\dl>
+  <dd>Yellow part of the egg. Not as good as the whites.</dd>
+  <dt>Savory</dt>
+  <dd>To be salty and pleasant tasing.</dd>
+</dl>
 ```
 
 #### [Back to Home Page](/README.md)
