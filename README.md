@@ -5,7 +5,7 @@
 1. Assignment 1
 2. [Evaluations: A Quick Guide](/class-02.md) 
 3. [HTML Lists: A Quick Guide](/read-03.md)
-4. Assignment 4
+4. [Paired Programming](/reading-04.md)
 5. Assignment 5
 6. Assignment 6
 7. Assignment 7
