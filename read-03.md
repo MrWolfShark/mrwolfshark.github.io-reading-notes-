@@ -1,20 +1,19 @@
-# HTML Lists: A Quick guide
+# HTML Lists: A Quick Guide
 
 **Ordered List**
-: List of items that are rendered in a numbered order 
+: List of items that are rendered in a numbered order
 
 **Unordered List**
-: List of items that are rendered in bullet point 
+: List of items that are rendered in bullet point
 
 **Definition List**
 : List of terms with definitions
-    
-### **Examples:**
 
+## **Examples:**
 
-#### **Ordered List**
+### **Ordered List**
 
- ```html 
+```html
 <h4>How to make Eggs</h4>
 <ol>
   <li>Heat pan.</li>
@@ -24,9 +23,9 @@
 </ol>
 ```
 
-#### **Unordered List**
+### **Unordered List**
 
- ```html 
+```html
 <h4>Favorite Egg Toppings</h4>
 <ul>
   <li>Ham</li>
@@ -35,10 +34,9 @@
 </ul>
 ```
 
+### **Definition List**
 
-#### **Definition List**
-
- ```html 
+```html
 <h4>Egg Terms</h4>
 <dl>
   <dt>Pan</dt>
@@ -50,4 +48,4 @@
 </dl>
 ```
 
-#### [Back to Home Page](/README.md)
+### [Back to Home Page](/README.md)

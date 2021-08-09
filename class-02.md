@@ -1,4 +1,4 @@
-# Evaluations: A Quick guide
+# Evaluations: A Quick Guide
 
 **Evaluation**
 : Analyzes values against match criteria and returns value of True or False
